@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* this is banner section */
+.banner-container{
+    background-image: url("./images/banner/banner3.png");
+    width: 1600px;
+    height: 800px;
+    color: white;
+}
+.banner-description{
+    
+}
